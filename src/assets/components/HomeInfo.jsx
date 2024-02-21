@@ -15,10 +15,10 @@ const InfoBox = ({ text, link, btnText }) => (
 const renderContent = {
   1: (
     <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
-      Hola, Me llamo <span className="font-semibold"> Franco David Gomez</span>
-      <br />soy <span className="text-red-500 font-semibold"> Fullstack Developer</span> 
+      Hola, Bienvenidos a <span className="font-semibold"> Mi conciencia</span>
+      <br /><span className="text-red-500 font-semibold"> Arrastra el mouse </span> 
       <br />
-      Arrastra la casa para poder volar sobre mi casa
+      <span > Y navega</span> 
     </h1>
   ),
   2: (
