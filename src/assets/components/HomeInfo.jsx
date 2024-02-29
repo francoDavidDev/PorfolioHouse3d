@@ -17,7 +17,7 @@ const renderContent = {
     <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
       Hola, Bienvenidos a <span className="font-semibold"> Mi conciencia</span>
       <br /><span className="text-red-500 font-semibold"> Arrastra el Mouse </span> 
-      <span >  para navegar.</span> 
+      <span >  para navegar </span> 
       <br />
      <span> y ver  mis Links</span> 
       <br />
